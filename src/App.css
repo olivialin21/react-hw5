@@ -494,7 +494,8 @@ span.ham-menu-bar3--touch {
   font-size: 1rem;
   opacity: 0.7;
 }
-.product-qty{
+
+.cart-item .product-qty{
   margin-top: 0.6rem;
 }
 
