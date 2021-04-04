@@ -2,7 +2,7 @@ import { Modal, Button, Select } from "antd";
 import { useEffect, useContext } from "react";
 import { Link } from "react-router-dom";
 import { StoreContext } from "../store"
-import { CartIcon } from "./Icons";
+import { CartIcon } from "../components/Icons";
 import { addCartItem, removeCartItem, setProductDetail } from "../actions";
 const { Option } = Select;
 
